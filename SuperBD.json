@@ -1,0 +1,93 @@
+[
+    {
+        "SuperHeroe": "Spider-Man",
+        "Genero": "Hombre",
+        "SFuerza": "Media",
+        "SVelocidad": "Alta",
+        "RallosLaser": "No",
+        "Garras": "No",
+        "Invisible": "No",
+        "Volar": "No",
+        "Trepar": "Si",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Wonder Woman",
+        "Genero": "Mujer",
+        "SFuerza": "Alta",
+        "SVelocidad": "Alta",
+        "RallosLaser": "No",
+        "Garras": "No",
+        "Invisible": "No",
+        "Volar": "Si",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Wolverine",
+        "Genero": "Hombre",
+        "SFuerza": "Alta",
+        "SVelocidad": "Media",
+        "RallosLaser": "No",
+        "Garras": "Si",
+        "Invisible": "No",
+        "Volar": "No",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Mujer Invisible",
+        "Genero": "Mujer",
+        "SFuerza": "Baja",
+        "SVelocidad": "Baja",
+        "RallosLaser": "No",
+        "Garras": "No",
+        "Invisible": "Si",
+        "Volar": "No",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Superman",
+        "Genero": "Hombre",
+        "SFuerza": "Super Alta",
+        "SVelocidad": "Super alta",
+        "RallosLaser": "Si",
+        "Garras": "No",
+        "Invisible": "No",
+        "Volar": "Si",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Gamora",
+        "Genero": "Mujer",
+        "SFuerza": "Alta",
+        "SVelocidad": "Alta",
+        "RallosLaser": "No",
+        "Garras": "No",
+        "Invisible": "No",
+        "Volar": "No",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    },
+    {
+        "SuperHeroe": "Flash",
+        "Genero": "Hombre",
+        "SFuerza": "Alta",
+        "SVelocidad": "Super Alta",
+        "RallosLaser": "No",
+        "Garras": "No",
+        "Invisible": "No",
+        "Volar": "No",
+        "Trepar": "No",
+        "Espadas": "No",
+        "Elastico": "No"
+    }
+]
